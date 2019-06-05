@@ -154,7 +154,7 @@ namespace SolveTestApp
             SaveFileDialog sfd = new SaveFileDialog
             {
                 Filter = "excel files (*.xlsx)|*.xlsx|All files (*.*)|*.*",
-                FileName = $"Решение задачи η={TbEta.Text} λ1={TbLabmda1.Text} λ2={TbLambda2.Text} 𝜉={TbXi.Text} ℎ={TbH.Text} 𝑘={TbK.Text}"
+                FileName = $"Решение задачи η={TbEta.Text} λ1={TbLabmda1.Text} λ2={TbLambda2.Text} 𝜉={TbXi.Text} h={TbH.Text} k={TbK.Text}"
             };
 
             if (sfd.ShowDialog() == DialogResult.OK)
@@ -168,6 +168,11 @@ namespace SolveTestApp
                 Close();
             }
 
+        }
+
+        private void BtClear_Click(object sender, EventArgs e)
+        {
+            TbEta.Text = TbH.Text = TbK.Text = TbLabmda1.Text = TbLambda2.Text = TbStep.Text = TbXi.Text = "";
         }
     }
 }
