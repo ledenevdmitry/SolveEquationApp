@@ -1,0 +1,99 @@
+C:\Users\Dmitry\source\repos\SolveTestApp\SolveTestApp\bin\Debug\SolveTestApp.exe.config
+C:\Users\Dmitry\source\repos\SolveTestApp\SolveTestApp\bin\Debug\SolveTestApp.exe
+C:\Users\Dmitry\source\repos\SolveTestApp\SolveTestApp\bin\Debug\SolveTestApp.pdb
+C:\Users\Dmitry\source\repos\SolveTestApp\SolveTestApp\bin\Debug\MathNet.Numerics.dll
+C:\Users\Dmitry\source\repos\SolveTestApp\SolveTestApp\bin\Debug\MathNet.Numerics.xml
+C:\Users\Dmitry\source\repos\SolveTestApp\SolveTestApp\obj\Debug\SolveTestApp.csprojAssemblyReference.cache
+C:\Users\Dmitry\source\repos\SolveTestApp\SolveTestApp\obj\Debug\SolveTestApp.Properties.Resources.resources
+C:\Users\Dmitry\source\repos\SolveTestApp\SolveTestApp\obj\Debug\SolveTestApp.csproj.GenerateResource.cache
+C:\Users\Dmitry\source\repos\SolveTestApp\SolveTestApp\obj\Debug\SolveTestApp.csproj.CoreCompileInputs.cache
+C:\Users\Dmitry\source\repos\SolveTestApp\SolveTestApp\obj\Debug\SolveTestApp.csproj.CopyComplete
+C:\Users\Dmitry\source\repos\SolveTestApp\SolveTestApp\obj\Debug\SolveTestApp.exe
+C:\Users\Dmitry\source\repos\SolveTestApp\SolveTestApp\obj\Debug\SolveTestApp.pdb
+C:\Users\Dmitry\source\repos\SolveTestApp\SolveTestApp\obj\Debug\SolveTestApp.MainForm.resources
+C:\Users\Dmitry\YandexDisk\4 курс\Алиса диплом\SolveTestApp\SolveTestApp\bin\Debug\SolveTestApp.exe.config
+C:\Users\Dmitry\YandexDisk\4 курс\Алиса диплом\SolveTestApp\SolveTestApp\bin\Debug\SolveTestApp.exe
+C:\Users\Dmitry\YandexDisk\4 курс\Алиса диплом\SolveTestApp\SolveTestApp\bin\Debug\SolveTestApp.pdb
+C:\Users\Dmitry\YandexDisk\4 курс\Алиса диплом\SolveTestApp\SolveTestApp\bin\Debug\MathNet.Numerics.dll
+C:\Users\Dmitry\YandexDisk\4 курс\Алиса диплом\SolveTestApp\SolveTestApp\bin\Debug\MathNet.Numerics.xml
+C:\Users\Dmitry\YandexDisk\4 курс\Алиса диплом\SolveTestApp\SolveTestApp\obj\Debug\SolveTestApp.csprojAssemblyReference.cache
+C:\Users\Dmitry\YandexDisk\4 курс\Алиса диплом\SolveTestApp\SolveTestApp\obj\Debug\SolveTestApp.MainForm.resources
+C:\Users\Dmitry\YandexDisk\4 курс\Алиса диплом\SolveTestApp\SolveTestApp\obj\Debug\SolveTestApp.Properties.Resources.resources
+C:\Users\Dmitry\YandexDisk\4 курс\Алиса диплом\SolveTestApp\SolveTestApp\obj\Debug\SolveTestApp.csproj.GenerateResource.cache
+C:\Users\Dmitry\YandexDisk\4 курс\Алиса диплом\SolveTestApp\SolveTestApp\obj\Debug\SolveTestApp.csproj.CoreCompileInputs.cache
+C:\Users\Dmitry\YandexDisk\4 курс\Алиса диплом\SolveTestApp\SolveTestApp\obj\Debug\SolveTestApp.csproj.CopyComplete
+C:\Users\Dmitry\YandexDisk\4 курс\Алиса диплом\SolveTestApp\SolveTestApp\obj\Debug\SolveTestApp.exe
+C:\Users\Dmitry\YandexDisk\4 курс\Алиса диплом\SolveTestApp\SolveTestApp\obj\Debug\SolveTestApp.pdb
+C:\Users\Alisa\Downloads\SolveTestApp\SolveTestApp\bin\Debug\SolveTestApp.exe.config
+C:\Users\Alisa\Downloads\SolveTestApp\SolveTestApp\bin\Debug\SolveTestApp.exe
+C:\Users\Alisa\Downloads\SolveTestApp\SolveTestApp\bin\Debug\SolveTestApp.pdb
+C:\Users\Alisa\Downloads\SolveTestApp\SolveTestApp\bin\Debug\MathNet.Numerics.dll
+C:\Users\Alisa\Downloads\SolveTestApp\SolveTestApp\bin\Debug\MathNet.Numerics.xml
+C:\Users\Alisa\Downloads\SolveTestApp\SolveTestApp\obj\Debug\SolveTestApp.csprojAssemblyReference.cache
+C:\Users\Alisa\Downloads\SolveTestApp\SolveTestApp\obj\Debug\SolveTestApp.MainForm.resources
+C:\Users\Alisa\Downloads\SolveTestApp\SolveTestApp\obj\Debug\SolveTestApp.Properties.Resources.resources
+C:\Users\Alisa\Downloads\SolveTestApp\SolveTestApp\obj\Debug\SolveTestApp.csproj.GenerateResource.cache
+C:\Users\Alisa\Downloads\SolveTestApp\SolveTestApp\obj\Debug\SolveTestApp.csproj.CoreCompileInputs.cache
+C:\Users\Alisa\Downloads\SolveTestApp\SolveTestApp\obj\Debug\SolveTestApp.csproj.CopyComplete
+C:\Users\Alisa\Downloads\SolveTestApp\SolveTestApp\obj\Debug\SolveTestApp.exe
+C:\Users\Alisa\Downloads\SolveTestApp\SolveTestApp\obj\Debug\SolveTestApp.pdb
+C:\Users\Alisa\Downloads\SolveTestApp\SolveTestApp\obj\Debug\SolveTestApp.ChartForm.resources
+D:\ВГУ\Диплом\SolveTestApp\SolveTestApp\bin\Debug\SolveTestApp.exe.config
+D:\ВГУ\Диплом\SolveTestApp\SolveTestApp\bin\Debug\SolveTestApp.exe
+D:\ВГУ\Диплом\SolveTestApp\SolveTestApp\bin\Debug\SolveTestApp.pdb
+D:\ВГУ\Диплом\SolveTestApp\SolveTestApp\bin\Debug\MathNet.Numerics.dll
+D:\ВГУ\Диплом\SolveTestApp\SolveTestApp\bin\Debug\MathNet.Numerics.xml
+D:\ВГУ\Диплом\SolveTestApp\SolveTestApp\obj\Debug\SolveTestApp.csprojAssemblyReference.cache
+D:\ВГУ\Диплом\SolveTestApp\SolveTestApp\obj\Debug\SolveTestApp.ChartForm.resources
+D:\ВГУ\Диплом\SolveTestApp\SolveTestApp\obj\Debug\SolveTestApp.MainForm.resources
+D:\ВГУ\Диплом\SolveTestApp\SolveTestApp\obj\Debug\SolveTestApp.Properties.Resources.resources
+D:\ВГУ\Диплом\SolveTestApp\SolveTestApp\obj\Debug\SolveTestApp.csproj.GenerateResource.cache
+D:\ВГУ\Диплом\SolveTestApp\SolveTestApp\obj\Debug\SolveTestApp.csproj.CoreCompileInputs.cache
+D:\ВГУ\Диплом\SolveTestApp\SolveTestApp\obj\Debug\SolveTestApp.csproj.CopyComplete
+D:\ВГУ\Диплом\SolveTestApp\SolveTestApp\obj\Debug\SolveTestApp.exe
+D:\ВГУ\Диплом\SolveTestApp\SolveTestApp\obj\Debug\SolveTestApp.pdb
+C:\Users\Dmitry\YandexDisk\4 курс\Алиса диплом\SolveEquationApp\SolveTestApp\bin\Debug\SolveTestApp.exe.config
+C:\Users\Dmitry\YandexDisk\4 курс\Алиса диплом\SolveEquationApp\SolveTestApp\bin\Debug\SolveTestApp.exe
+C:\Users\Dmitry\YandexDisk\4 курс\Алиса диплом\SolveEquationApp\SolveTestApp\bin\Debug\SolveTestApp.pdb
+C:\Users\Dmitry\YandexDisk\4 курс\Алиса диплом\SolveEquationApp\SolveTestApp\bin\Debug\MathNet.Numerics.dll
+C:\Users\Dmitry\YandexDisk\4 курс\Алиса диплом\SolveEquationApp\SolveTestApp\bin\Debug\MathNet.Numerics.xml
+C:\Users\Dmitry\YandexDisk\4 курс\Алиса диплом\SolveEquationApp\SolveTestApp\obj\Debug\SolveTestApp.csprojAssemblyReference.cache
+C:\Users\Dmitry\YandexDisk\4 курс\Алиса диплом\SolveEquationApp\SolveTestApp\obj\Debug\SolveTestApp.MainForm.resources
+C:\Users\Dmitry\YandexDisk\4 курс\Алиса диплом\SolveEquationApp\SolveTestApp\obj\Debug\SolveTestApp.Properties.Resources.resources
+C:\Users\Dmitry\YandexDisk\4 курс\Алиса диплом\SolveEquationApp\SolveTestApp\obj\Debug\SolveTestApp.csproj.GenerateResource.cache
+C:\Users\Dmitry\YandexDisk\4 курс\Алиса диплом\SolveEquationApp\SolveTestApp\obj\Debug\SolveTestApp.csproj.CoreCompileInputs.cache
+C:\Users\Dmitry\YandexDisk\4 курс\Алиса диплом\SolveEquationApp\SolveTestApp\obj\Debug\SolveTestApp.csproj.CopyComplete
+C:\Users\Dmitry\YandexDisk\4 курс\Алиса диплом\SolveEquationApp\SolveTestApp\obj\Debug\SolveTestApp.exe
+C:\Users\Dmitry\YandexDisk\4 курс\Алиса диплом\SolveEquationApp\SolveTestApp\obj\Debug\SolveTestApp.pdb
+C:\Users\Dmitry\YandexDisk\4 курс\Алиса диплом\SolveEquationApp\SolveTestApp\obj\Debug\SolveTestApp.DerivativeChartForm.resources
+C:\Users\Dmitry\YandexDisk\4 курс\Алиса диплом\SolveEquationApp\SolveTestApp\obj\Debug\SolveTestApp.FunctionChartForm.resources
+C:\Users\Alisa\Documents\Dmitry\SolveEquationApp\SolveTestApp\bin\Debug\SolveTestApp.exe.config
+C:\Users\Alisa\Documents\Dmitry\SolveEquationApp\SolveTestApp\bin\Debug\SolveTestApp.exe
+C:\Users\Alisa\Documents\Dmitry\SolveEquationApp\SolveTestApp\bin\Debug\SolveTestApp.pdb
+C:\Users\Alisa\Documents\Dmitry\SolveEquationApp\SolveTestApp\bin\Debug\MathNet.Numerics.dll
+C:\Users\Alisa\Documents\Dmitry\SolveEquationApp\SolveTestApp\bin\Debug\MathNet.Numerics.xml
+C:\Users\Alisa\Documents\Dmitry\SolveEquationApp\SolveTestApp\obj\Debug\SolveTestApp.csprojAssemblyReference.cache
+C:\Users\Alisa\Documents\Dmitry\SolveEquationApp\SolveTestApp\obj\Debug\SolveTestApp.DerivativeChartForm.resources
+C:\Users\Alisa\Documents\Dmitry\SolveEquationApp\SolveTestApp\obj\Debug\SolveTestApp.FunctionChartForm.resources
+C:\Users\Alisa\Documents\Dmitry\SolveEquationApp\SolveTestApp\obj\Debug\SolveTestApp.MainForm.resources
+C:\Users\Alisa\Documents\Dmitry\SolveEquationApp\SolveTestApp\obj\Debug\SolveTestApp.Properties.Resources.resources
+C:\Users\Alisa\Documents\Dmitry\SolveEquationApp\SolveTestApp\obj\Debug\SolveTestApp.csproj.GenerateResource.cache
+C:\Users\Alisa\Documents\Dmitry\SolveEquationApp\SolveTestApp\obj\Debug\SolveTestApp.csproj.CoreCompileInputs.cache
+C:\Users\Alisa\Documents\Dmitry\SolveEquationApp\SolveTestApp\obj\Debug\SolveTestApp.csproj.CopyComplete
+C:\Users\Alisa\Documents\Dmitry\SolveEquationApp\SolveTestApp\obj\Debug\SolveTestApp.exe
+C:\Users\Alisa\Documents\Dmitry\SolveEquationApp\SolveTestApp\obj\Debug\SolveTestApp.pdb
+C:\Users\Alisa\Desktop\Диплом\Диплом\Приложения\1\SolveEquationApp-master\SolveTestApp\bin\Debug\SolveTestApp.exe.config
+C:\Users\Alisa\Desktop\Диплом\Диплом\Приложения\1\SolveEquationApp-master\SolveTestApp\bin\Debug\SolveTestApp.exe
+C:\Users\Alisa\Desktop\Диплом\Диплом\Приложения\1\SolveEquationApp-master\SolveTestApp\bin\Debug\SolveTestApp.pdb
+C:\Users\Alisa\Desktop\Диплом\Диплом\Приложения\1\SolveEquationApp-master\SolveTestApp\bin\Debug\MathNet.Numerics.dll
+C:\Users\Alisa\Desktop\Диплом\Диплом\Приложения\1\SolveEquationApp-master\SolveTestApp\bin\Debug\MathNet.Numerics.xml
+C:\Users\Alisa\Desktop\Диплом\Диплом\Приложения\1\SolveEquationApp-master\SolveTestApp\obj\Debug\SolveTestApp.csprojAssemblyReference.cache
+C:\Users\Alisa\Desktop\Диплом\Диплом\Приложения\1\SolveEquationApp-master\SolveTestApp\obj\Debug\SolveTestApp.DerivativeChartForm.resources
+C:\Users\Alisa\Desktop\Диплом\Диплом\Приложения\1\SolveEquationApp-master\SolveTestApp\obj\Debug\SolveTestApp.FunctionChartForm.resources
+C:\Users\Alisa\Desktop\Диплом\Диплом\Приложения\1\SolveEquationApp-master\SolveTestApp\obj\Debug\SolveTestApp.MainForm.resources
+C:\Users\Alisa\Desktop\Диплом\Диплом\Приложения\1\SolveEquationApp-master\SolveTestApp\obj\Debug\SolveTestApp.Properties.Resources.resources
+C:\Users\Alisa\Desktop\Диплом\Диплом\Приложения\1\SolveEquationApp-master\SolveTestApp\obj\Debug\SolveTestApp.csproj.GenerateResource.cache
+C:\Users\Alisa\Desktop\Диплом\Диплом\Приложения\1\SolveEquationApp-master\SolveTestApp\obj\Debug\SolveTestApp.csproj.CoreCompileInputs.cache
+C:\Users\Alisa\Desktop\Диплом\Диплом\Приложения\1\SolveEquationApp-master\SolveTestApp\obj\Debug\SolveTestApp.csproj.CopyComplete
+C:\Users\Alisa\Desktop\Диплом\Диплом\Приложения\1\SolveEquationApp-master\SolveTestApp\obj\Debug\SolveTestApp.exe
+C:\Users\Alisa\Desktop\Диплом\Диплом\Приложения\1\SolveEquationApp-master\SolveTestApp\obj\Debug\SolveTestApp.pdb
