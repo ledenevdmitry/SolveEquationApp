@@ -18,6 +18,9 @@ namespace SolveTestApp
         {
             InitializeComponent();
 
+            derivativeChart.ChartAreas[0].AxisX.Title = "z";
+            derivativeChart.ChartAreas[0].AxisY.Title = "w'";
+
             derivativeChart.Series[0].ChartType = System.Windows.Forms.DataVisualization.Charting.SeriesChartType.Spline;
             derivativeChart.Series[0].Name = "Производная";
 
